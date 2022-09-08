@@ -1,0 +1,216 @@
+body{
+    background-image: linear-gradient(to right, rgba(249,61,102, 0.95), rgba(90, 53, 192, 0.87)), url("media/topography4.jpg") ;
+    letter-spacing: -1px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+#Topboss{
+    display: flex;
+    flex-direction: row;
+    margin-left: 0px;
+    margin-top: 60px;
+    margin-right: 30px;
+}
+
+.top{
+    width: 30%;
+    background-color: #ffc600;
+    list-style: none;
+    margin: 5px;
+    text-align: center;
+    padding: 10px 20px;
+    font-weight: 800;
+    font-size: 20px;
+}
+
+.top2{
+    text-decoration: none;
+    color: black;
+}
+
+#LM{
+    text-decoration: none;
+    color: black;
+}
+
+#Waffle{
+    height: 400px;
+    width: 870px;
+    margin-left: 45px;
+    margin-top: 10px;
+}
+
+#W{
+    position: relative;
+}
+
+#T{
+    position: absolute;
+    margin-top: -250px;
+    margin-left: 90px;
+}
+
+#t1{
+    background-color: #ffc600;
+    font-weight: 700;
+    font-size: 30px;
+    width: 250px;
+    text-align: center;
+}
+
+#t2{
+    background-color: #ffc600;
+    font-weight: 800;
+    font-size: 15px;
+    width: 150px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#p1{
+    height: 150px;
+    width: 370px;
+    background-color: #ffc600;
+    font-size: 60px;
+    font-weight: 300;
+    margin-top: -404px;
+    margin-right: 30px;
+    float: right;
+    flex-direction: column;
+    text-align: center;
+    padding-top: 40px;
+}
+
+#p1 p{
+    font-size: 15px;
+    font-weight: 800;
+    margin-top: -1px;
+}
+
+#p2{
+    height: 150px;
+    width: 370px;
+    background-color: #ffc600;
+    font-size: 60px;
+    font-weight: 300;
+    margin-top: -195px;
+    margin-right: 30px;
+    float: right;
+    flex-direction: column;
+    text-align: center;
+    padding-top: 40px;
+}
+
+#p2 p{
+    font-size: 15px;
+    font-weight: 800;
+    margin-top: -1px;
+}
+
+.obj{
+    height: 60px;
+    width: 60px;
+}
+.i{
+    height: 170px;
+    width: 350px;
+    background-color: rgb(233, 230, 230);
+    margin: 9px;
+    margin-top: 15px;
+    flex-direction: row;
+    text-align: center;
+    padding-top: 17px;
+}
+
+.i p{
+    font-weight: 700;
+    color: rgb(119, 115, 115);
+    margin-top: -5px;
+    letter-spacing: -1px;
+}
+
+.i h3{
+    margin-top: -3px;
+}
+
+#icons{
+    display: flex;
+    margin-top: 0px;
+    margin-left: 35px;
+    width: 1275px;
+}
+
+#S-part{
+    background-color: rgb(233, 230, 230);
+    height: 400px;
+    width: 1255px;
+    margin-left: 45px;
+    margin-top: 10px;
+}
+
+#snack{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+#f{
+    float: right;
+    margin-right: 487px;
+    margin-top: 90px;
+}
+
+#f1{
+    font-size: 23.5px;
+}
+
+.f2{
+    font-size: 15px;
+    font-weight: 900;
+}
+
+button{
+    background-color: #ffc600;
+    border: none;
+    padding: 10px 20px;
+}
+
+#IMG{
+    margin-left: 40px;
+    width: 1275px;
+    margin-top: -18px;
+}
+
+.img{
+    height: 230px;
+    width: 237px;
+    margin: 7px;
+}
+
+.fancy{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255, 198, 0, 1));
+    height: 10px;
+    width: 490px;
+    margin-top: 10px;
+    
+}
+
+#IG{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin-right: 40px;
+}
+
+#ig{
+    margin-top: -2px;
+    color: rgb(51, 47, 47);
+    margin-right: 18px;
+    margin-left: 18px;
+    padding-left: -30px;
+    padding-right: -30px;
+}
+
+#rev{
+    background-image: linear-gradient(to left, rgba(255,0,0,0), rgba(255, 198, 0, 1));
+}
